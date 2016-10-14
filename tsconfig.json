@@ -11,7 +11,9 @@
     "outDir": "./bin",
     "rootDir": "./src",
     "types": [
-      "es6-shim"
+      "es6-shim",
+      "karma",
+      "jasmine"
     ]
   },
   "exclude": [
